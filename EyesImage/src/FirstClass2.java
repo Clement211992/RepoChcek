@@ -10,7 +10,9 @@ public class FirstClass2 {
 
 	public static void main(String[] args) throws IOException {
 		Eyes eyes = new Eyes();
-
+		
+		//Sample Check
+		System.out.println("Added this line to check Git Puch");
 
         // Initialize the eyes SDK and set your private API key.
         eyes.setApiKey("undefined");
